@@ -1,0 +1,72 @@
+[
+  {
+    "order_id": 1,
+    "customer_id": 101,
+    "product_id": 201,
+    "quantity": 2,
+    "date": "2024-05-10"
+  },
+  {
+    "order_id": 2,
+    "customer_id": 102,
+    "product_id": 202,
+    "quantity": 1,
+    "date": "2024-05-11"
+  },
+  {
+    "order_id": 3,
+    "customer_id": 103,
+    "product_id": 203,
+    "quantity": 3,
+    "date": "2024-05-12"
+  },
+  {
+    "order_id": 4,
+    "customer_id": 104,
+    "product_id": 204,
+    "quantity": 1,
+    "date": "2024-06-01"
+  },
+  {
+    "order_id": 5,
+    "customer_id": 105,
+    "product_id": 205,
+    "quantity": 4,
+    "date": "2024-06-05"
+  },
+  {
+    "order_id": 6,
+    "customer_id": 106,
+    "product_id": 206,
+    "quantity": 2,
+    "date": "2024-06-10"
+  },
+  {
+    "order_id": 7,
+    "customer_id": 107,
+    "product_id": 207,
+    "quantity": 1,
+    "date": "2024-07-02"
+  },
+  {
+    "order_id": 8,
+    "customer_id": 108,
+    "product_id": 208,
+    "quantity": 2,
+    "date": "2024-07-05"
+  },
+  {
+    "order_id": 9,
+    "customer_id": 109,
+    "product_id": 209,
+    "quantity": 1,
+    "date": "2024-07-15"
+  },
+  {
+    "order_id": 10,
+    "customer_id": 110,
+    "product_id": 210,
+    "quantity": 3,
+    "date": "2024-07-20"
+  }
+]
